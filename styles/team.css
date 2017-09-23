@@ -1,0 +1,35 @@
+#team #teamPhoto{
+	height: 220px;
+	width: 310px;
+	margin-right: 25px;
+}
+
+#team #teamIntroduce{
+	height: 220px;
+	width: 650px;
+	background-color: #fafafa;
+}
+
+#teamExpert{
+	height: 524px;
+	background-color: #fafafa;
+}
+
+#teamExpert .expertspic{
+	width: 300px;
+	height: 250px;
+	margin-right: 15px;
+}
+
+#teamExpert .expertspic .expertIntroduce{
+	height: 18px;
+	width: 300px;
+	text-align: center;
+	margin: 28px auto;
+}
+
+#teamExpert .expertspic .expertIntroduce span{
+	
+	border-bottom: solid 2px #d43b33;
+	padding-bottom: 4px;
+}

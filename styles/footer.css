@@ -1,0 +1,38 @@
+footer{
+	height: 318px;
+	background: url(../images/bottombg.png);
+	padding-top: 58px;
+}
+#footerCentent #footerLogo{
+	width: 140px;
+	height: 60px;
+	position: relative;
+	padding-right: 90px;
+}
+#footerCentent #footerLogo img{
+	width: 140px;
+}
+#footerCentent #footerLogo #footertitle{
+	display: block;
+	height: 40px;
+	color: #e6e6e6;
+	font: 16px/50px "宋体";
+	text-align: center;
+}
+#footerCentent h1{
+	font: bold 16px/50px "微软雅黑";
+	color: #fcf8f8;
+}
+#footerCentent p{
+	margin-bottom: 40px;
+}
+/*在线客服*/
+#onlineService
+{
+	width: 72px;
+	background-color: #D43B33;
+
+	position: fixed;
+	right: 0px;
+	top: 280px;
+}

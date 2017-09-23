@@ -1,0 +1,57 @@
+#newsTitle{
+	width: 668px;
+	margin: 0px auto;
+}
+
+#newsList ul li{
+	float: left;
+	width: 333px;
+	height: 38px;
+	text-align: center;
+	font: 16px/38px "微软雅黑";
+	background-color: #fafafa;
+}
+
+#newsList ul li:hover{
+	width: 334px;
+	height: 42px;
+	background: url(../images/tapbg.png);
+}
+
+.newsBox480{
+	height: 200px;
+	width: 480px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 35px;
+	
+}
+
+.newsBox480 img{
+	float: left;
+	margin-right: 20px;
+}
+
+
+
+#newsPage ul li{
+	float: left;
+	padding: 3px 10px;
+	background-color: darkgrey;
+	margin-right: 1px;
+	color: white;
+}
+
+#newsPage .first{
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+#newsPage .last{
+	border-bottom-right-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+#newsPage ul li:hover{
+	background-color: #b50900;
+}

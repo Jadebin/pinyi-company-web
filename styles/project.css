@@ -1,0 +1,71 @@
+#projectListing ul li{
+	float: left;
+	width: 333px;
+	height: 38px;
+	text-align: center;
+	font: 16px/38px "微软雅黑";
+	background-color: #fafafa;
+}
+
+#projectListing ul li:first-child{
+	width: 334px;
+	height: 42px;
+	background: url(../images/tapbg.png);
+}
+
+#project1000 #projectCenten718{
+	width: 718px;
+	height: 180px;
+	border: solid 1px #d6d6d6;
+}
+
+#project1000 #projectCenten718 #projectCentenPic img{
+	height: 125px;
+	width: 200px;
+}
+
+#project1000 #projectCenten718  #projectCenten420{
+	width: 420px;
+}
+
+#project1000 #projectCenten718 #projectCentenPic{
+	padding: 20px 30px;
+}
+
+#project1000 #projectCenten718 #projectCenten420 #projectDetails{
+	display: block;
+	float: right;
+}
+
+#project1000 #projectCenten250{
+	width: 250px;
+	height: 96px;
+	border: solid 1px #d6d6d6;
+}
+
+#project1000 #projectCenten250 img{
+	display: block;
+	margin: 18px auto;
+}
+
+#projectPage ul li{
+	float: left;
+	padding: 3px 10px;
+	background-color: darkgrey;
+	margin-right: 1px;
+	color: white;
+}
+
+#projectPage .first{
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+#projectPage .last{
+	border-bottom-right-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+#projectPage ul li:hover{
+	background-color: #b50900;
+}

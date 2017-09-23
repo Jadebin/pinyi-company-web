@@ -1,0 +1,153 @@
+.autobox,header,.banner,.project,footer,#corporateculture,#courceBigbox,#teamExpert{
+	width: 100%;
+}
+
+.div1000,.company,.aboutUS,#companyContent,#projectCenten,#newMSG,#footerCentent
+{
+	width: 1000px;
+	min-width: 1000px;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.fl{
+	float: left;
+}
+
+.fr{
+	float: right;
+}
+
+.broderBonttomGray{
+	border-bottom: solid 1px #cbcbcb;
+}
+
+.textcenter{
+	text-align: center;
+}
+
+.Titletext{
+	font: 18px/26px "微软雅黑";
+	text-transform: uppercase;
+}
+
+.colorRed{
+	color: #d43b33;
+}
+
+.fontWeight{
+	font-weight: bold;
+}
+
+.paddingtop50{
+	padding-top: 50px;
+}
+
+.paddingtop20{
+	padding-top: 20px;
+}
+
+.paddingtop40{
+	padding-top: 40px;
+}
+
+.paddingleft10{
+	padding-left: 10px;
+}
+
+.paddingBottom40{
+	padding-bottom: 40px;
+}
+
+.clear{
+	clear: both;
+}
+
+.marginTop40{
+	margin-top: 40px;
+}
+
+.marginTop70{
+	margin-top: 70px;
+}
+
+.marginTop10{
+	margin-top: 10px;
+}
+
+.marginTop20{
+	margin-top: 20px;
+}
+
+.marginRight40{
+	margin-right: 40px;
+}
+
+.marginLeft50{
+	margin-left: 50px;
+}
+
+.marginBottom{
+	margin-bottom: 30px;
+}
+
+.em{
+	font-style:initial ;
+}
+
+.fontblack{
+	color: #000;
+}
+
+.fontWhite{
+	color: #fcf8f8;
+}
+
+.bgcwhite{
+	background-color:  #fff;
+}
+
+/*index和aboutUS共用样式*/
+#aboutUS .aboutUSTiltle{
+	height: 80px;
+	width: 180px;
+	color: #626262;
+	background-color: #fff;
+	margin: 0px auto;
+	position: relative;
+	top: 40px;
+}
+/*index和aboutUS共用样式*/
+
+
+/*上一页下一页*/
+.cource585{
+	width: 585px;
+	margin: 0px auto;
+}
+
+.courceNext,.courceLast{
+	height: 32px;
+	width: 265px;
+	color: white;
+	font: 18px/32px "微软雅黑";
+	background-color: #e5e5e5;
+	padding: 0px 10px;
+}
+.courceNext{
+	text-align: right;
+}
+
+.courceNext:hover{
+	background-color: #d43b33;
+}
+
+.courceLast:hover{
+	background-color: #d43b33;
+}
+
+/*文字大小*/
+.font16{
+	font-size: 16px;
+}

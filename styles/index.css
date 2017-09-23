@@ -1,0 +1,159 @@
+.btnMore{
+	background: url(../images/more_more_bg.png) no-repeat;
+	height: 38px;
+	width: 106px;
+	line-height: 38px;
+	margin-top: 38px;
+	background-position: center;
+}
+#company #companyTitle li{
+	height: 30px;
+	float: left;
+	padding: 0px 10px;
+	margin: 0px 10px;
+	color: white;
+	font: 12px/5px "微软雅黑";
+	border: solid 1px #626262;
+	background: #626262;
+	line-height: 32px;
+}
+
+#company #companyTitle{
+	width: 270px;
+	margin: 0px auto;
+}
+
+#company #companyTitle {
+	height: 32px;
+	margin-top: 30px;
+}
+
+#company #companyTitle li:hover, #company #companyTitle .current
+{
+	height: 32px;
+	color: #d43b33;
+	border: solid 1px #cbcbcb;
+	border-bottom: solid 1px #FFFFFF;
+	background: white;
+}
+
+#companyContent img{
+	margin: 0px 20px 0px 110px;
+}
+
+#companyContent dl dd{
+	font-weight: bold;
+}
+/*company结束*/
+
+/*project开始*/
+#project{
+	height: 350px;
+	background: url(../images/by_good_project.png);
+	margin-top: 40px;
+}
+#project #projectTitle{
+	color: #000;
+}
+#project #projectTitle{
+	width: 250px;
+	margin: 0px auto;
+}
+.arrow{
+	height: 148px;
+	width: 20px;
+	cursor: pointer;
+}
+.arrowleft{
+	background: url(../images/btnleft.png);
+	margin-right: 10px;
+}
+
+.arrowright{
+	background: url(../images/btnright.png);
+}
+
+#project #projectCenten #projectCenten945{
+	width: 945px;
+	height: 148px;
+}
+
+#project #projectCenten .projectCenten310{
+	float: left;
+	margin-right: 5px;
+	width: 310px;
+	height: 148px;
+	position: relative;
+}
+#project #projectCenten .projectCenten310 img{
+	width: 310px;
+	height: 148px;
+}
+#project #projectCenten .projectCenten310 span{
+	display: block;
+	width: 300px;
+	height: 30px;
+	line-height: 30px;
+	color: white;
+	background: rgba(0,0,0,0.5);
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	padding-left: 10px;
+}
+/*project结束*/
+
+/*news+message开始*/
+#newMSG #new #newsListing ul li{
+	height: 35px;
+	width: 460px;
+	line-height: 35px;
+	color: #000;
+	border-bottom: dashed 1px #cacaca;
+}
+#newMSG #new #newMore{
+	font-style: italic;
+	margin-top: 12px;
+}
+#newMSG #new #newsListing span{
+	color: #cacaca;
+}
+/*news结束*/
+#messge{
+	width: 512px;
+}
+
+#messge .input{
+	margin-top: 10px;
+	height: 36px;
+	border: solid 1px #cacaca;
+	padding-left: 10px;
+}
+
+#messge .input243{
+	width: 240px;
+}
+
+#messge .input90{
+	width: 90px;
+}
+
+#messge .inputMarginR{
+	margin-right: 8px;
+}
+
+#messge #textareaMSG{
+	width: 500px;
+	height: 185px;
+	margin-bottom: 5px;
+}
+
+#messge #submitMSG{
+	float: right;
+	height: 33px;
+	width: 130px;
+	color: #FFFFFF;
+	background-color: #d43b33;
+	border: none;
+}
+/*newMSG结束*/

@@ -1,0 +1,63 @@
+#corporateculture{
+	background: url(../images/by_good_project.png);
+	height: 450px;
+}
+
+#corporateculture #Culture{
+	width: 378px;
+}
+
+#corporateculture #Culture dt{
+	font: bold 14px/30px "微软雅黑";
+}
+
+#corporateculture #Culture dd{
+	border-bottom: solid 1px #bebebe;
+}
+
+#event #eventbox1000{
+	width: 1000px;
+	height: 348px;
+}
+
+#event #eventbox1000 .eventbox250{
+	width: 250px;
+	height: 174px;
+	position: relative;
+}
+
+#event #eventbox1000 .eventbox250Text{
+	width: 230px;
+	height: 174px;
+	background-color: #4b4b4b;
+	color: white;
+	padding-left: 20px;
+}
+
+#event #eventbox1000 .eventbox250Text p{
+	padding: 40px 0px 10px 0px;
+}
+
+#event #eventbox1000 .triangle{
+	border: solid 12px  #4b4b4b;
+	width: 0px;
+	height: 0px;
+	border-color: transparent #4b4b4b transparent transparent;
+	position: absolute;
+	right: 0px;
+	top: 78px;
+}
+
+#event #eventbox1000 .triangleLeft{
+	border-color: transparent transparent transparent #4b4b4b;
+	right: 226px;
+}
+
+#event #goON{
+	height: 52px;
+	width: 1000px;
+	background-color: #d43b33;
+	color: #fff;
+	font-size: 16px;
+	line-height: 52px;text-align: center;
+}

@@ -1,0 +1,46 @@
+#courceCenter .courceBox404{
+	height: 240px;
+	width: 404px;
+	position: relative;
+}
+
+#courceCenter img{
+	height: 240px;
+	width: 404px;
+	
+}
+
+#courceCenter .courceBox404 span{
+	display: block;
+	height: 28px;
+	width: 404px;
+	font: 16px/28px "微软雅黑";
+	text-align: center;
+	color: white;
+	background-color: #222222;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+
+#courceCenter #courceBox854{
+	height: 510px;
+	width: 853px;
+	margin: 0px auto;
+}
+
+#courceBigbox{
+	height: 460px;
+	background-color: #f7f7f7;
+}
+
+#courceBigbox .courceCenter240{
+	width: 240px;
+	margin-right: 10px;
+}
+
+#courceBigbox .courceCenter240 img{
+	width: 240px;
+	height: 130px;
+}
+
